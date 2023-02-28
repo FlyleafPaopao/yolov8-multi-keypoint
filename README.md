@@ -3,7 +3,7 @@ This repo gave multi-task keypoint detect code based yolov8. The  landmarks or k
 
 ⭐ This code has been completely released and the documentation will be improved gradually.⭐ 
 
--This repo is almost the raw [yolov8] (https://github.com/ultralytics/ultralytics). And the following repo or article are referred:
+-This repo is almost the raw [yolov8](https://github.com/ultralytics/ultralytics). And the following repo or article are referred:
 
 -[yolo-pose](https://github.com/TexasInstruments/edgeai-yolov5/tree/yolo-pose)
 
