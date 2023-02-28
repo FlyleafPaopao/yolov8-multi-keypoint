@@ -1,12 +1,16 @@
 # yolov8-multi-keypoint
-This repo would give multi-task keypoint detect code based yolov8. The  landmarks or keypoints with different classes and numbers can be detected at the same time.
+This repo gave multi-task keypoint detect code based yolov8. The  landmarks or keypoints with different classes and numbers can be detected at the same time.
+
 ⭐ This code has been completely released and the documentation will be improved gradually.⭐ 
 
 -This repo is almost the raw [yolov8] (https://github.com/ultralytics/ultralytics). And the following repo or article are referred:
 
 -[yolo-pose](https://github.com/TexasInstruments/edgeai-yolov5/tree/yolo-pose)
+
 -[yolo-pose-artical](https://arxiv.org/abs/2204.06806)
+
 -[yolov7-pose-estimation](https://github.com/RizwanMunawar/yolov7-pose-estimation)
+
 
 ###Based aboving work, we made a little upgrade:
 
